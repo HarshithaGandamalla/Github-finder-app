@@ -9,8 +9,8 @@
     <title>Github Finder</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="https://bootswatch.com/simplex/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+     <link rel="stylesheet" href="css/styles.css">
     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
     <link href="starter-template.css" rel="stylesheet">
     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
